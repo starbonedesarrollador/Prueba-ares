@@ -1,0 +1,401 @@
+{
+ "cp001": {
+  "t": 1790258400000,
+  "dia": "2026-09-24",
+  "proveedorId": "tornorte",
+  "proveedorNombre": "DISTRIBUIDORA TORNILLOS DEL NORTE, C.A. (DEMO)",
+  "factura": "DEMO-2113",
+  "pagoEn": "bs",
+  "condicion": "contado",
+  "descBs": 0.4,
+  "descExtra": 0.2,
+  "total": 58.17,
+  "pago": {
+   "key": "c_banco_emp",
+   "label": "Banco Demo · Punto y transferencias",
+   "mon": "BS",
+   "monto": 22590.9,
+   "usd": 58.17,
+   "tasa": 388.36
+  },
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p1086",
+    "codigo": "TOCAG2012002",
+    "desc": "TOR CARRUAJE GRADO 2 NC 1/2-13x2",
+    "cant": 10,
+    "G": 1.3562,
+    "costoReal": 0.8137
+   },
+   {
+    "id": "p1443",
+    "codigo": "TOG5NC716512",
+    "desc": "TORNILLO HEX GRADO 5 NC 7/16X5 1/2",
+    "cant": 30,
+    "G": 1.1947,
+    "costoReal": 0.7168
+   },
+   {
+    "id": "p1370",
+    "codigo": "TOALINOXCC038212",
+    "desc": "TOALINOXCC 3/8X2 1/2",
+    "cant": 20,
+    "G": 1.2575,
+    "costoReal": 0.7545
+   },
+   {
+    "id": "p2914",
+    "codigo": "TOAUCH 81",
+    "desc": "TOAUCH 8X1",
+    "cant": 50,
+    "G": 0.0849,
+    "costoReal": 0.0509
+   },
+   {
+    "id": "p0571",
+    "codigo": "TOALMMA1870",
+    "desc": "TOR ALLEN C/CILINDRICA MA NEGRO M18-2.50x70",
+    "cant": 30,
+    "G": 0.605,
+    "costoReal": 0.363
+   }
+  ],
+  "nro": 1,
+  "n": "C-000001"
+ },
+ "cp002": {
+  "t": 1790776800000,
+  "dia": "2026-09-30",
+  "proveedorId": "pernosandes",
+  "proveedorNombre": "IMPORTADORA PERNOS LOS ANDES, C.A. (DEMO)",
+  "factura": "DEMO-2126",
+  "pagoEn": "usd",
+  "condicion": "credito",
+  "descBs": 0.0,
+  "descExtra": 0.25,
+  "total": 82.09,
+  "pago": null,
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p1668",
+    "codigo": "TOMEGS1024008",
+    "desc": "TOMEGS 10/24X5/8",
+    "cant": 500,
+    "G": 0.0539,
+    "costoReal": 0.0404
+   },
+   {
+    "id": "p1052",
+    "codigo": "TOCAG2NC716002",
+    "desc": "TOCAG2NC 7/16X2",
+    "cant": 50,
+    "G": 0.6355,
+    "costoReal": 0.4766
+   },
+   {
+    "id": "p2860",
+    "codigo": "TOG8NC123",
+    "desc": "TOG8NC 1/2X3",
+    "cant": 10,
+    "G": 0.7499,
+    "costoReal": 0.5624
+   },
+   {
+    "id": "p2750",
+    "codigo": "RETEN-E12",
+    "desc": "RETEN EXTERNO #12",
+    "cant": 50,
+    "G": 0.1756,
+    "costoReal": 0.1317
+   },
+   {
+    "id": "p1300",
+    "codigo": "TOMMMA1240",
+    "desc": "TORNILLO HEX METRICO MA 12-1.75X40",
+    "cant": 50,
+    "G": 0.6891,
+    "costoReal": 0.5168
+   }
+  ],
+  "nro": 2,
+  "n": "C-000002"
+ },
+ "cp003": {
+  "t": 1791208800000,
+  "dia": "2026-10-05",
+  "proveedorId": "ferrecaribe",
+  "proveedorNombre": "FERRETERA INDUSTRIAL CARIBE, C.A. (DEMO)",
+  "factura": "DEMO-2139",
+  "pagoEn": "usd",
+  "condicion": "contado",
+  "descBs": 0.3,
+  "descExtra": 0.15,
+  "total": 41.26,
+  "pago": {
+   "key": "efectivo_usd",
+   "label": "Efectivo $",
+   "mon": "USD",
+   "monto": 41.26,
+   "usd": 41.26,
+   "tasa": 391.25
+  },
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p2118",
+    "codigo": "TOAUTOTATECHO14034",
+    "desc": "TOR AUTOTALADRANTE HEX TECHO C/ARAND 14-14x3/4",
+    "cant": 50,
+    "G": 0.1334,
+    "costoReal": 0.0794
+   },
+   {
+    "id": "p0301",
+    "codigo": "MACHOSNF640",
+    "desc": "MACHOS NF 6/40",
+    "cant": 10,
+    "G": 2.9535,
+    "costoReal": 1.7573
+   },
+   {
+    "id": "p1559",
+    "codigo": "TUINOXNC038",
+    "desc": "TUINOXNC 3/8",
+    "cant": 100,
+    "G": 0.227,
+    "costoReal": 0.1351
+   },
+   {
+    "id": "p2678",
+    "codigo": "TOAUINOXCPAN8003",
+    "desc": "TOR AUTO ROSCANTE PAN PHS INOX 304 8-18x3\"",
+    "cant": 50,
+    "G": 0.2088,
+    "costoReal": 0.1242
+   }
+  ],
+  "nro": 3,
+  "n": "C-000003"
+ },
+ "cp004": {
+  "t": 1791640800000,
+  "dia": "2026-10-10",
+  "proveedorId": "tornorte",
+  "proveedorNombre": "DISTRIBUIDORA TORNILLOS DEL NORTE, C.A. (DEMO)",
+  "factura": "DEMO-2152",
+  "pagoEn": "bs",
+  "condicion": "credito",
+  "descBs": 0.4,
+  "descExtra": 0.2,
+  "total": 95.31,
+  "pago": null,
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p1122",
+    "codigo": "TOALCC078007",
+    "desc": "TOR ALLEN C/CILINDRICA UNC NEGRO 7/8-9x7",
+    "cant": 20,
+    "G": 0.718,
+    "costoReal": 0.4308
+   },
+   {
+    "id": "p1277",
+    "codigo": "TOMMMA8150",
+    "desc": "TORNILLO HEX METRICO MA 8-1.25X150",
+    "cant": 30,
+    "G": 0.6571,
+    "costoReal": 0.3943
+   },
+   {
+    "id": "p2697",
+    "codigo": "TOMMMB820-1RC",
+    "desc": "TOR HEX 8.8 DIN 961 R.FINA CORRIDA NEGRO M8-1.0x20",
+    "cant": 500,
+    "G": 0.1466,
+    "costoReal": 0.088
+   },
+   {
+    "id": "p2458",
+    "codigo": "PRALMMA810",
+    "desc": "PRISIONERO ALLEN NEGRO M8-1.25x10",
+    "cant": 500,
+    "G": 0.0516,
+    "costoReal": 0.031
+   },
+   {
+    "id": "p1191",
+    "codigo": "TOMMMB1245-125RC",
+    "desc": "TOR HEX 8.8 R.CORRIDA NEGRO M12-1.25x45",
+    "cant": 10,
+    "G": 0.5042,
+    "costoReal": 0.3025
+   },
+   {
+    "id": "p0150",
+    "codigo": "LLAVE114",
+    "desc": "LLAVES 1 1/4",
+    "cant": 30,
+    "G": 0.688,
+    "costoReal": 0.4128
+   }
+  ],
+  "nro": 4,
+  "n": "C-000004"
+ },
+ "cp005": {
+  "t": 1792072800000,
+  "dia": "2026-10-15",
+  "proveedorId": "autotuercas",
+  "proveedorNombre": "AUTOTUERCAS DEL ORIENTE, C.A. (DEMO)",
+  "factura": "DEMO-2165",
+  "pagoEn": "bs",
+  "condicion": "contado",
+  "descBs": 0.5,
+  "descExtra": 0.25,
+  "total": 82.92,
+  "pago": {
+   "key": "c_banco_emp",
+   "label": "Banco Demo · Punto y transferencias",
+   "mon": "BS",
+   "monto": 32595.02,
+   "usd": 82.92,
+   "tasa": 393.09
+  },
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0838",
+    "codigo": "TOG5NF014012",
+    "desc": "TOG5NF ¼ X 1/2",
+    "cant": 200,
+    "G": 0.098,
+    "costoReal": 0.049
+   },
+   {
+    "id": "p2805",
+    "codigo": "MACHOSMA12",
+    "desc": "MACHOS P/ROSCAR R/GRUESA JUEGO 3 PZAS 12-1.75",
+    "cant": 10,
+    "G": 0.4674,
+    "costoReal": 0.2337
+   },
+   {
+    "id": "p0986",
+    "codigo": "PRALMM840",
+    "desc": "PRALMM 8X40",
+    "cant": 100,
+    "G": 0.1204,
+    "costoReal": 0.0602
+   },
+   {
+    "id": "p1724",
+    "codigo": "ARAPREINOX716",
+    "desc": "ARANDELA DE PRESION INOX 7/16",
+    "cant": 200,
+    "G": 0.1113,
+    "costoReal": 0.0557
+   },
+   {
+    "id": "p2242",
+    "codigo": "REMACHE55",
+    "desc": "REMACHE DE ALUMINIO 55 (5/32X7/16)",
+    "cant": 500,
+    "G": 0.0856,
+    "costoReal": 0.0428
+   },
+   {
+    "id": "p0066",
+    "codigo": "MECHASC78612",
+    "desc": "MECHASC 7/8X6 1/2",
+    "cant": 30,
+    "G": 0.6854,
+    "costoReal": 0.3427
+   },
+   {
+    "id": "p0705",
+    "codigo": "TOG2NC058114",
+    "desc": "TOR HEXAGONAL GRADO 2 NC 5/8-11x1-1/4",
+    "cant": 20,
+    "G": 1.1932,
+    "costoReal": 0.5966
+   },
+   {
+    "id": "p1228",
+    "codigo": "TOMMMB835-1",
+    "desc": "TORN HEX METRICO MB 8-1.00X35",
+    "cant": 20,
+    "G": 0.3157,
+    "costoReal": 0.1579
+   },
+   {
+    "id": "p3039",
+    "codigo": "TOAUCR632038",
+    "desc": "TOAUCR 6/32X3/8",
+    "cant": 50,
+    "G": 0.2744,
+    "costoReal": 0.1372
+   }
+  ],
+  "nro": 5,
+  "n": "C-000005"
+ },
+ "cp006": {
+  "t": 1792418400000,
+  "dia": "2026-10-19",
+  "proveedorId": "ferrecaribe",
+  "proveedorNombre": "FERRETERA INDUSTRIAL CARIBE, C.A. (DEMO)",
+  "factura": "DEMO-2178",
+  "pagoEn": "bs",
+  "condicion": "credito",
+  "descBs": 0.3,
+  "descExtra": 0.15,
+  "total": 114.35,
+  "pago": null,
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0839",
+    "codigo": "TOG5NF014134",
+    "desc": "TOG5NF ¼ X 1 3/4",
+    "cant": 100,
+    "G": 0.1444,
+    "costoReal": 0.1011
+   },
+   {
+    "id": "p1811",
+    "codigo": "ESPANCNF058003",
+    "desc": "ESPARRAGO DOBLE ROSCA COMBINADO NC NF ARTILLERIA 5/8X3",
+    "cant": 20,
+    "G": 6.828,
+    "costoReal": 4.7796
+   },
+   {
+    "id": "p1655",
+    "codigo": "TUGALV516",
+    "desc": "TUERCA HEX G2 UNC ZINCADA 5/16-18",
+    "cant": 100,
+    "G": 0.05,
+    "costoReal": 0.035
+   },
+   {
+    "id": "p0344",
+    "codigo": "TOAUCHTALA14034",
+    "desc": "TOAUCHTALA 14X3/4",
+    "cant": 50,
+    "G": 0.147,
+    "costoReal": 0.1029
+   }
+  ],
+  "nro": 6,
+  "n": "C-000006"
+ }
+}

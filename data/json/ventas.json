@@ -1,0 +1,1423 @@
+{
+ "v0001": {
+  "n": "V-000001",
+  "nro": 1,
+  "cod": "V-000001",
+  "t": 1791833040000,
+  "dia": "2026-10-12",
+  "registrada": 1791833040000,
+  "baseImponible": 18.25,
+  "tasa": 392.15,
+  "subtotal": 18.25,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 18.25,
+  "totalBs": 7156.74,
+  "cliente": "MANTENIMIENTO INDUSTRIAL DELTA, C.A.",
+  "clienteId": "J990000112",
+  "clienteDoc": "J-990000112-0",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0875",
+    "codigo": "TOG5NF001212",
+    "desc": "TOG5NF 1 X 2 ½",
+    "ubic": "ESTANTE 4 (ADELANTE)",
+    "cant": 1,
+    "precio": 12.784,
+    "costo": 3.196,
+    "total": 12.78
+   },
+   {
+    "id": "p2576",
+    "codigo": "PRALNC014034",
+    "desc": "PRISIONERO ALLEN UNC NEGRO 1/4-20X3/4",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 2,
+    "precio": 0.2331,
+    "costo": 0.0583,
+    "total": 0.47
+   },
+   {
+    "id": "p0060",
+    "codigo": "MECHASC532",
+    "desc": "MECHASC 5/32",
+    "ubic": "ESTANTE A DE MUESTRA ENTRADA",
+    "cant": 6,
+    "precio": 0.8332,
+    "costo": 0.2083,
+    "total": 5.0
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "credito",
+    "cuenta": null,
+    "cuentaNombre": "",
+    "mon": "USD",
+    "monto": 18.25,
+    "ref": ""
+   }
+  ],
+  "modo": "bs",
+  "credito": 18.25,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0002": {
+  "n": "V-000002",
+  "nro": 2,
+  "cod": "V-000002",
+  "t": 1791914760000,
+  "dia": "2026-10-13",
+  "registrada": 1791914760000,
+  "baseImponible": 71.04,
+  "tasa": 392.55,
+  "subtotal": 71.04,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 71.04,
+  "totalBs": 27886.75,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0820",
+    "codigo": "TOG8NC034010",
+    "desc": "TORNILLO HEX GRADO 8 UNC 3/4 x 10",
+    "ubic": "ESTANTE 4 (ADELANTE)",
+    "cant": 2,
+    "precio": 30.3244,
+    "costo": 7.5811,
+    "total": 60.65
+   },
+   {
+    "id": "p2312",
+    "codigo": "TOG8NF716003",
+    "desc": "TOR HEX G8 UNF NEGRO 7/16-20x3\"",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 2,
+    "precio": 1.9176,
+    "costo": 0.4794,
+    "total": 3.84
+   },
+   {
+    "id": "p0864",
+    "codigo": "TOG5NF038004",
+    "desc": "TOG5NF ⅜ X 4",
+    "ubic": "ESTANTE 4 (ADELANTE)",
+    "cant": 4,
+    "precio": 1.6371,
+    "costo": 0.4093,
+    "total": 6.55
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "pago_movil",
+    "cuenta": "banco_pm",
+    "cuentaNombre": "Banco Demo · Pago móvil",
+    "mon": "BS",
+    "monto": 27886.75,
+    "ref": "411496"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0003": {
+  "n": "V-000003",
+  "nro": 3,
+  "cod": "V-000003",
+  "t": 1791924180000,
+  "dia": "2026-10-13",
+  "registrada": 1791924180000,
+  "baseImponible": 18.58,
+  "tasa": 392.55,
+  "subtotal": 18.58,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 18.58,
+  "totalBs": 7293.58,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0903",
+    "codigo": "TUSEMA8",
+    "desc": "TUSEMA 8",
+    "ubic": "ESTANTE 4 (ADELANTE) / ESTANTE NUEVO",
+    "cant": 12,
+    "precio": 0.1801,
+    "costo": 0.06,
+    "total": 2.16
+   },
+   {
+    "id": "p0875",
+    "codigo": "TOG5NF001212",
+    "desc": "TOG5NF 1 X 2 ½",
+    "ubic": "ESTANTE 4 (ADELANTE)",
+    "cant": 1,
+    "precio": 9.588,
+    "costo": 3.196,
+    "total": 9.59
+   },
+   {
+    "id": "p1052",
+    "codigo": "TOCAG2NC716002",
+    "desc": "TOCAG2NC 7/16X2",
+    "ubic": "ESTANTE 4B INOXIDABLES",
+    "cant": 6,
+    "precio": 1.0032,
+    "costo": 0.3344,
+    "total": 6.02
+   },
+   {
+    "id": "p2424",
+    "codigo": "TOMMMA860RC",
+    "desc": "TOR HEX 8.8 R.CORRIDA NEGRO M8-1.25x60",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 2,
+    "precio": 0.4061,
+    "costo": 0.1354,
+    "total": 0.81
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "zelle",
+    "cuenta": "zelle_demo",
+    "cuentaNombre": "Zelle (demo)",
+    "mon": "USD",
+    "monto": 18.58,
+    "ref": ""
+   }
+  ],
+  "modo": "usd",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0004": {
+  "n": "V-000004",
+  "nro": 4,
+  "cod": "V-000004",
+  "t": 1791892860000,
+  "dia": "2026-10-13",
+  "registrada": 1791892860000,
+  "baseImponible": 9.22,
+  "tasa": 392.55,
+  "subtotal": 9.22,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 9.22,
+  "totalBs": 3619.31,
+  "cliente": "JOSÉ SALAZAR",
+  "clienteId": "V99000116",
+  "clienteDoc": "V-99.000.116",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": true,
+  "items": [
+   {
+    "id": "p2164",
+    "codigo": "ESPAMMB1060-125",
+    "desc": "ESPARRAGO MILIMETRICO 8,8 MB 10-1.25x60",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 1,
+    "precio": 3.0456,
+    "costo": 0.7614,
+    "total": 3.05
+   },
+   {
+    "id": "p0063",
+    "codigo": "MECHASC12614",
+    "desc": "MECHASC 1/2X6 1/4",
+    "ubic": "ESTANTE A DE MUESTRA ENTRADA",
+    "cant": 2,
+    "precio": 1.4688,
+    "costo": 0.3672,
+    "total": 2.94
+   },
+   {
+    "id": "p1024",
+    "codigo": "TOALCC516312",
+    "desc": "TOALCC 5/16X3 1/2",
+    "ubic": "ESTANTE 4B INOXIDABLES",
+    "cant": 2,
+    "precio": 1.6142,
+    "costo": 0.4035,
+    "total": 3.23
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "pago_movil",
+    "cuenta": "banco_pm",
+    "cuentaNombre": "Banco Demo · Pago móvil",
+    "mon": "BS",
+    "monto": 3619.31,
+    "ref": "267294"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null,
+  "anuladaAt": 1791893460000,
+  "anuladaPor": "demo_admin"
+ },
+ "v0005": {
+  "n": "V-000005",
+  "nro": 5,
+  "cod": "V-000005",
+  "t": 1791995460000,
+  "dia": "2026-10-14",
+  "registrada": 1791995460000,
+  "baseImponible": 11.66,
+  "tasa": 393.18,
+  "subtotal": 11.66,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 11.66,
+  "totalBs": 4584.48,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0264",
+    "codigo": "DADOSTARRNC138",
+    "desc": "DADOS PARA TARRAJA NC 1 3/8",
+    "ubic": "ESTANTE B MOSTRADOR",
+    "cant": 1,
+    "precio": 1.4461,
+    "costo": 0.3615,
+    "total": 1.45
+   },
+   {
+    "id": "p1642",
+    "codigo": "TOMEGS014006",
+    "desc": "TOMEGS 1/4X6",
+    "ubic": "ESTANTE 6A",
+    "cant": 6,
+    "precio": 0.9661,
+    "costo": 0.2415,
+    "total": 5.8
+   },
+   {
+    "id": "p3122",
+    "codigo": "LLAVEBR34",
+    "desc": "LLAVEBR 3/4",
+    "ubic": "ESTANTE 18",
+    "cant": 4,
+    "precio": 1.1026,
+    "costo": 0.2757,
+    "total": 4.41
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "pago_movil",
+    "cuenta": "banco_pm",
+    "cuentaNombre": "Banco Demo · Pago móvil",
+    "mon": "BS",
+    "monto": 4584.48,
+    "ref": "695195"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0006": {
+  "n": "V-000006",
+  "nro": 6,
+  "cod": "V-000006",
+  "t": 1791984900000,
+  "dia": "2026-10-14",
+  "registrada": 1791984900000,
+  "baseImponible": 13.35,
+  "tasa": 393.18,
+  "subtotal": 13.35,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 13.35,
+  "totalBs": 5248.95,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p2901",
+    "codigo": "ARAPLANAT1",
+    "desc": "ARANDELA PLANA NATURAL 1",
+    "ubic": "ESTANTE 8 COLUMNA 1 DERECHA",
+    "cant": 2,
+    "precio": 0.5671,
+    "costo": 0.189,
+    "total": 1.13
+   },
+   {
+    "id": "p3073",
+    "codigo": "PASAPRE38134",
+    "desc": "PASAPRE 3/8X1 3/4",
+    "ubic": "ESTANTE 18",
+    "cant": 6,
+    "precio": 0.3729,
+    "costo": 0.1243,
+    "total": 2.24
+   },
+   {
+    "id": "p2313",
+    "codigo": "TOG8NF012114",
+    "desc": "TOR HEX G8 UNF NEGRO 1/2-20x1-1/4",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 1,
+    "precio": 1.0136,
+    "costo": 0.3379,
+    "total": 1.01
+   },
+   {
+    "id": "p2130",
+    "codigo": "ESPANCNF038212",
+    "desc": "ESPÁRRAGO G5 UNC-UNF NEGRO 3/8x2-1/2",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 6,
+    "precio": 1.4946,
+    "costo": 0.4982,
+    "total": 8.97
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "efectivo_usd",
+    "cuenta": null,
+    "cuentaNombre": "",
+    "mon": "USD",
+    "monto": 13.35,
+    "ref": ""
+   }
+  ],
+  "modo": "usd",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0007": {
+  "n": "V-000007",
+  "nro": 7,
+  "cod": "V-000007",
+  "t": 1791983760000,
+  "dia": "2026-10-14",
+  "registrada": 1791983760000,
+  "baseImponible": 2.18,
+  "tasa": 393.18,
+  "subtotal": 2.18,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 2.18,
+  "totalBs": 857.13,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p2325",
+    "codigo": "TOMMMAFL1025-AM",
+    "desc": "TOR HEX FLANGE 8.8 DIN 6921 ASERRADO M10-1.50x25",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 1,
+    "precio": 0.5335,
+    "costo": 0.1778,
+    "total": 0.53
+   },
+   {
+    "id": "p1268",
+    "codigo": "TOMMMA845",
+    "desc": "TORNILLO HEX METRICO MA 8-1.25X45",
+    "ubic": "ESTANTE 5A / ESTANTE NUEVO / ESTANTE 14",
+    "cant": 4,
+    "precio": 0.413,
+    "costo": 0.1377,
+    "total": 1.65
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "zelle",
+    "cuenta": "zelle_demo",
+    "cuentaNombre": "Zelle (demo)",
+    "mon": "USD",
+    "monto": 2.18,
+    "ref": ""
+   }
+  ],
+  "modo": "usd",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0008": {
+  "n": "V-000008",
+  "nro": 8,
+  "cod": "V-000008",
+  "t": 1792068300000,
+  "dia": "2026-10-15",
+  "registrada": 1792068300000,
+  "baseImponible": 12.11,
+  "tasa": 393.09,
+  "subtotal": 12.11,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 12.11,
+  "totalBs": 4760.32,
+  "cliente": "CARPINTERÍA METÁLICA EL YUNQUE",
+  "clienteId": "J990000110",
+  "clienteDoc": "J-990000110-0",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0735",
+    "codigo": "TOG8NF001003",
+    "desc": "TOG8NF 1X3",
+    "ubic": "ESTANTE 3 (ADELANTE)",
+    "cant": 1,
+    "precio": 9.2214,
+    "costo": 3.0738,
+    "total": 9.22
+   },
+   {
+    "id": "p0449",
+    "codigo": "TOAUCR12212",
+    "desc": "TOR AUTO ROSCANTE PAN PHS #12x2-1/2",
+    "ubic": "ESTANTE 1",
+    "cant": 10,
+    "precio": 0.1994,
+    "costo": 0.0665,
+    "total": 1.99
+   },
+   {
+    "id": "p1738",
+    "codigo": "TOMECR316212",
+    "desc": "TOMECR 3/16X1 1/2",
+    "ubic": "ESTANTE 6A",
+    "cant": 25,
+    "precio": 0.0361,
+    "costo": 0.012,
+    "total": 0.9
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "zelle",
+    "cuenta": "zelle_demo",
+    "cuentaNombre": "Zelle (demo)",
+    "mon": "USD",
+    "monto": 12.11,
+    "ref": ""
+   }
+  ],
+  "modo": "usd",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0009": {
+  "n": "V-000009",
+  "nro": 9,
+  "cod": "V-000009",
+  "t": 1792097700000,
+  "dia": "2026-10-15",
+  "registrada": 1792097700000,
+  "baseImponible": 2.29,
+  "tasa": 393.09,
+  "subtotal": 2.29,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 2.29,
+  "totalBs": 900.18,
+  "cliente": "TRANSPORTE COSTA FIRME, C.A.",
+  "clienteId": "J990000136",
+  "clienteDoc": "J-990000136-0",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p1775",
+    "codigo": "TUSENC034",
+    "desc": "TUERCA DE SEGURIDAD NC 3/4",
+    "ubic": "ESTANTE 5B ATRAS",
+    "cant": 2,
+    "precio": 1.1464,
+    "costo": 0.2866,
+    "total": 2.29
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "credito",
+    "cuenta": null,
+    "cuentaNombre": "",
+    "mon": "USD",
+    "monto": 2.29,
+    "ref": ""
+   }
+  ],
+  "modo": "bs",
+  "credito": 2.29,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0010": {
+  "n": "V-000010",
+  "nro": 10,
+  "cod": "V-000010",
+  "t": 1792172040000,
+  "dia": "2026-10-16",
+  "registrada": 1792172040000,
+  "baseImponible": 42.52,
+  "tasa": 393.69,
+  "subtotal": 42.52,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 42.52,
+  "totalBs": 16739.7,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p1705",
+    "codigo": "TOMECPMM550",
+    "desc": "TOMECPMM 5X50",
+    "ubic": "ESTANTE 6A / ESTANTE NUEVO",
+    "cant": 12,
+    "precio": 0.25,
+    "costo": 0.0292,
+    "total": 3.0
+   },
+   {
+    "id": "p3063",
+    "codigo": "PASAPRE14112",
+    "desc": "PASAPRE 1/4X1 1/2",
+    "ubic": "ESTANTE 18",
+    "cant": 2,
+    "precio": 0.5755,
+    "costo": 0.1439,
+    "total": 1.15
+   },
+   {
+    "id": "p0729",
+    "codigo": "TOG8NF078312",
+    "desc": "TOG8NF 7/8X3 ½",
+    "ubic": "ESTANTE 3 (ADELANTE)",
+    "cant": 2,
+    "precio": 17.0328,
+    "costo": 4.2582,
+    "total": 34.07
+   },
+   {
+    "id": "p1458",
+    "codigo": "TOG5NC916134",
+    "desc": "TOR HEX G5 UNC NEGRO 9/16-12x1-3/4",
+    "ubic": "ESTANTE 5B ATRAS",
+    "cant": 2,
+    "precio": 2.15,
+    "costo": 0.4455,
+    "total": 4.3
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "pago_movil",
+    "cuenta": "banco_pm",
+    "cuentaNombre": "Banco Demo · Pago móvil",
+    "mon": "BS",
+    "monto": 16739.7,
+    "ref": "431373"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0011": {
+  "n": "V-000011",
+  "nro": 11,
+  "cod": "V-000011",
+  "t": 1792262520000,
+  "dia": "2026-10-17",
+  "registrada": 1792262520000,
+  "baseImponible": 12.61,
+  "tasa": 393.69,
+  "subtotal": 12.61,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 12.61,
+  "totalBs": 4964.43,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p1114",
+    "codigo": "TOALCC058512",
+    "desc": "TOR ALLEN C/CILINDRICA UNC NEGRO 5/8-11x5-1/2",
+    "ubic": "ESTANTE 4B",
+    "cant": 1,
+    "precio": 7.6704,
+    "costo": 1.9176,
+    "total": 7.67
+   },
+   {
+    "id": "p2788",
+    "codigo": "TOCAG2NC014012",
+    "desc": "TORN CARRUAJE 1/4x1/2",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 25,
+    "precio": 0.0523,
+    "costo": 0.0131,
+    "total": 1.31
+   },
+   {
+    "id": "p2764",
+    "codigo": "TOMMMA822",
+    "desc": "TORN HEX METRICO MA 8-1.25x22",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 10,
+    "precio": 0.2929,
+    "costo": 0.0732,
+    "total": 2.93
+   },
+   {
+    "id": "p0457",
+    "codigo": "TOAUCR8034",
+    "desc": "TOR AUTO ROSCANTE PAN PHS #8x3/4",
+    "ubic": "ESTANTE 1",
+    "cant": 12,
+    "precio": 0.0585,
+    "costo": 0.0146,
+    "total": 0.7
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "punto",
+    "cuenta": "banco_emp",
+    "cuentaNombre": "Banco Demo · Punto y transferencias",
+    "mon": "BS",
+    "monto": 4964.43,
+    "ref": "721265"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0012": {
+  "n": "V-000012",
+  "nro": 12,
+  "cod": "V-000012",
+  "t": 1792263000000,
+  "dia": "2026-10-17",
+  "registrada": 1792263000000,
+  "baseImponible": 5.82,
+  "tasa": 393.69,
+  "subtotal": 5.82,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 5.82,
+  "totalBs": 2291.28,
+  "cliente": "CARPINTERÍA METÁLICA EL YUNQUE",
+  "clienteId": "J990000110",
+  "clienteDoc": "J-990000110-0",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0925",
+    "codigo": "TOINOXMMMA1260",
+    "desc": "TOINOXMMMA 12X60",
+    "ubic": "ESTANTE 4B INOXIDABLES",
+    "cant": 1,
+    "precio": 2.2983,
+    "costo": 0.7661,
+    "total": 2.3
+   },
+   {
+    "id": "p0467",
+    "codigo": "TOAUCR6114",
+    "desc": "TOR AUTO ROSCANTE PAN PHS #6x1-1/4",
+    "ubic": "ESTANTE 1 / ESTANTE 8 COLUMNA 1 DERECHA",
+    "cant": 100,
+    "precio": 0.0317,
+    "costo": 0.0106,
+    "total": 3.17
+   },
+   {
+    "id": "p0009",
+    "codigo": "PASAPRE316034",
+    "desc": "PASAPRE 3/16X3/4",
+    "ubic": "ESTANTE A DE MUESTRA ENTRADA / ESTANTE 18",
+    "cant": 2,
+    "precio": 0.1737,
+    "costo": 0.0579,
+    "total": 0.35
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "efectivo_usd",
+    "cuenta": null,
+    "cuentaNombre": "",
+    "mon": "USD",
+    "monto": 5.82,
+    "ref": ""
+   }
+  ],
+  "modo": "usd",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0013": {
+  "n": "V-000013",
+  "nro": 13,
+  "cod": "V-000013",
+  "t": 1792414020000,
+  "dia": "2026-10-19",
+  "registrada": 1792414020000,
+  "baseImponible": 4.79,
+  "tasa": 394.01,
+  "subtotal": 4.79,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 4.79,
+  "totalBs": 1887.31,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p2194",
+    "codigo": "TOG8NC516004",
+    "desc": "TORNILLO HEX GRADO 8 UNC 5/16x4",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 1,
+    "precio": 0.9539,
+    "costo": 0.2385,
+    "total": 0.95
+   },
+   {
+    "id": "p2312",
+    "codigo": "TOG8NF716003",
+    "desc": "TOR HEX G8 UNF NEGRO 7/16-20x3\"",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 2,
+    "precio": 1.9176,
+    "costo": 0.4794,
+    "total": 3.84
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "pago_movil",
+    "cuenta": "banco_pm",
+    "cuentaNombre": "Banco Demo · Pago móvil",
+    "mon": "BS",
+    "monto": 1887.31,
+    "ref": "295352"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0014": {
+  "n": "V-000014",
+  "nro": 14,
+  "cod": "V-000014",
+  "t": 1792429920000,
+  "dia": "2026-10-19",
+  "registrada": 1792429920000,
+  "baseImponible": 3.8,
+  "tasa": 394.01,
+  "subtotal": 3.8,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 3.8,
+  "totalBs": 1497.24,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0393",
+    "codigo": "TOALMMA1295",
+    "desc": "TOR ALLEN CBZA CILINDRICA MM 12X95",
+    "ubic": "ESTANTE 1",
+    "cant": 2,
+    "precio": 1.2956,
+    "costo": 0.4319,
+    "total": 2.59
+   },
+   {
+    "id": "p0906",
+    "codigo": "TUSEMA14",
+    "desc": "TUSEMA 14",
+    "ubic": "ESTANTE 4 (ADELANTE)",
+    "cant": 2,
+    "precio": 0.6042,
+    "costo": 0.2014,
+    "total": 1.21
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "efectivo_usd",
+    "cuenta": null,
+    "cuentaNombre": "",
+    "mon": "USD",
+    "monto": 3.8,
+    "ref": ""
+   }
+  ],
+  "modo": "usd",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0015": {
+  "n": "V-000015",
+  "nro": 15,
+  "cod": "V-000015",
+  "t": 1792416960000,
+  "dia": "2026-10-19",
+  "registrada": 1792416960000,
+  "baseImponible": 1.44,
+  "tasa": 394.01,
+  "subtotal": 1.44,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 1.44,
+  "totalBs": 567.37,
+  "cliente": "LUISA FERMÍN",
+  "clienteId": "V99000115",
+  "clienteDoc": "V-99.000.115",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0903",
+    "codigo": "TUSEMA8",
+    "desc": "TUSEMA 8",
+    "ubic": "ESTANTE 4 (ADELANTE) / ESTANTE NUEVO",
+    "cant": 6,
+    "precio": 0.2401,
+    "costo": 0.06,
+    "total": 1.44
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "pago_movil",
+    "cuenta": "banco_pm",
+    "cuentaNombre": "Banco Demo · Pago móvil",
+    "mon": "BS",
+    "monto": 567.37,
+    "ref": "943937"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0016": {
+  "n": "V-000016",
+  "nro": 16,
+  "cod": "V-000016",
+  "t": 1792524300000,
+  "dia": "2026-10-20",
+  "registrada": 1792524300000,
+  "baseImponible": 5.64,
+  "tasa": 395.17,
+  "subtotal": 5.64,
+  "iva": 0.9,
+  "ivaTasa": 0.16,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 6.54,
+  "totalBs": 2584.41,
+  "cliente": "RAFAEL PATIÑO",
+  "clienteId": "V99000125",
+  "clienteDoc": "V-99.000.125",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p2695",
+    "codigo": "TOMMMA655RC",
+    "desc": "TOR HEX 8.8 DIN 933 R.CORRIDA NEGRO M6-1.0x55",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 12,
+    "precio": 0.1726,
+    "costo": 0.0431,
+    "total": 2.07
+   },
+   {
+    "id": "p0397",
+    "codigo": "TOALMMA1670",
+    "desc": "TOR ALLEN CBZA CILINDRICA MM 16X70",
+    "ubic": "ESTANTE 1",
+    "cant": 1,
+    "precio": 3.572,
+    "costo": 0.893,
+    "total": 3.57
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "punto",
+    "cuenta": "banco_emp",
+    "cuentaNombre": "Banco Demo · Punto y transferencias",
+    "mon": "BS",
+    "monto": 2584.41,
+    "ref": "905165"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0017": {
+  "n": "V-000017",
+  "nro": 17,
+  "cod": "V-000017",
+  "t": 1792527240000,
+  "dia": "2026-10-20",
+  "registrada": 1792527240000,
+  "baseImponible": 10.75,
+  "tasa": 395.17,
+  "subtotal": 10.75,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 10.75,
+  "totalBs": 4248.08,
+  "cliente": "ELECTROMECÁNICA ORIENTE SUR, C.A.",
+  "clienteId": "J990000134",
+  "clienteDoc": "J-990000134-0",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p2483",
+    "codigo": "TOALCCNC516214",
+    "desc": "TORN ALLEN CAB/CILIND UNC 5/16x2-1/4",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 2,
+    "precio": 0.8907,
+    "costo": 0.2227,
+    "total": 1.78
+   },
+   {
+    "id": "p2882",
+    "codigo": "TOMEGS145",
+    "desc": "TOMEGS 1/4X5",
+    "ubic": "ESTANTE 8 COLUMNA 1 DERECHA",
+    "cant": 4,
+    "precio": 0.0852,
+    "costo": 0.0213,
+    "total": 0.34
+   },
+   {
+    "id": "p2231",
+    "codigo": "REMACHE612L",
+    "desc": "REMACHE DE ALUM ALA ANCHA 612L (3/16x15/16)",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 20,
+    "precio": 0.4,
+    "costo": 0.0835,
+    "total": 8.0
+   },
+   {
+    "id": "p1784",
+    "codigo": "TUSENF014",
+    "desc": "TUERCA DE SEGURIDAD NF 1/4",
+    "ubic": "ESTANTE 5B ATRAS / ESTANTE NUEVO",
+    "cant": 6,
+    "precio": 0.1045,
+    "costo": 0.0261,
+    "total": 0.63
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "pago_movil",
+    "cuenta": "banco_pm",
+    "cuentaNombre": "Banco Demo · Pago móvil",
+    "mon": "BS",
+    "monto": 4248.08,
+    "ref": "452446"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0018": {
+  "n": "V-000018",
+  "nro": 18,
+  "cod": "V-000018",
+  "t": 1792524420000,
+  "dia": "2026-10-20",
+  "registrada": 1792524420000,
+  "baseImponible": 9.67,
+  "tasa": 395.17,
+  "subtotal": 9.67,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 9.67,
+  "totalBs": 3821.29,
+  "cliente": "LUIS ACOSTA",
+  "clienteId": "V99000127",
+  "clienteDoc": "V-99.000.127",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0085",
+    "codigo": "CLAVOSMM335",
+    "desc": "CLAVOS MM 3X35 10 CAJAS",
+    "ubic": "ESTANTE A DE MUESTRA ENTRADA",
+    "cant": 4,
+    "precio": 0.2359,
+    "costo": 0.0786,
+    "total": 0.94
+   },
+   {
+    "id": "p0975",
+    "codigo": "TOCAG2NC038001",
+    "desc": "TOCAG2NC 3/8X1",
+    "ubic": "ESTANTE 4B INOXIDABLES",
+    "cant": 2,
+    "precio": 0.3784,
+    "costo": 0.1261,
+    "total": 0.76
+   },
+   {
+    "id": "p3017",
+    "codigo": "TOCAG2NC012212",
+    "desc": "TOCAG2NC 1/2X2 1/2",
+    "ubic": "ESTANTE 17",
+    "cant": 2,
+    "precio": 2.3688,
+    "costo": 0.7896,
+    "total": 4.74
+   },
+   {
+    "id": "p2965",
+    "codigo": "TOG8NC 12212",
+    "desc": "TOG8NC 1/2X2 1/2",
+    "ubic": "ESTANTE 13",
+    "cant": 4,
+    "precio": 0.8082,
+    "costo": 0.2694,
+    "total": 3.23
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "efectivo_usd",
+    "cuenta": null,
+    "cuentaNombre": "",
+    "mon": "USD",
+    "monto": 9.67,
+    "ref": ""
+   }
+  ],
+  "modo": "usd",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0019": {
+  "n": "V-000019",
+  "nro": 19,
+  "cod": "V-000019",
+  "t": 1792498560000,
+  "dia": "2026-10-20",
+  "registrada": 1792498560000,
+  "baseImponible": 14.93,
+  "tasa": 395.17,
+  "subtotal": 14.93,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 14.93,
+  "totalBs": 5899.89,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p2332",
+    "codigo": "TOMMMMB12130-125",
+    "desc": "TOR HEX 8.8 DIN 960 P-1.25 R.PARCIAL NEGRO M12-1.25x130",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 4,
+    "precio": 1.661,
+    "costo": 0.4152,
+    "total": 6.64
+   },
+   {
+    "id": "p1556",
+    "codigo": "TOMECPINOX316002",
+    "desc": "TOR METAL ACERO UNOX 3/16X2\"",
+    "ubic": "ESTANTE 6A",
+    "cant": 12,
+    "precio": 0.3707,
+    "costo": 0.0927,
+    "total": 4.45
+   },
+   {
+    "id": "p2203",
+    "codigo": "TOG8NC038001",
+    "desc": "TORNILLO HEX GRADO 8 UNC 3/8x1\"",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 10,
+    "precio": 0.3839,
+    "costo": 0.096,
+    "total": 3.84
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "efectivo_bs",
+    "cuenta": null,
+    "cuentaNombre": "",
+    "mon": "BS",
+    "monto": 5899.89,
+    "ref": ""
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0020": {
+  "n": "V-000020",
+  "nro": 20,
+  "cod": "V-000020",
+  "t": 1792585860000,
+  "dia": "2026-10-21",
+  "registrada": 1792585860000,
+  "baseImponible": 1.84,
+  "tasa": 395.33,
+  "subtotal": 1.84,
+  "iva": 0.29,
+  "ivaTasa": 0.16,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 2.13,
+  "totalBs": 842.05,
+  "cliente": "ANA RIVAS",
+  "clienteId": "V99000113",
+  "clienteDoc": "V-99.000.113",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p0429",
+    "codigo": "ARAPRENAT014",
+    "desc": "ARANDELAS PRESION 1/4",
+    "ubic": "ESTANTE 1 / ESTANTE NUEVO",
+    "cant": 100,
+    "precio": 0.0184,
+    "costo": 0.0046,
+    "total": 1.84
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "pago_movil",
+    "cuenta": "banco_pm",
+    "cuentaNombre": "Banco Demo · Pago móvil",
+    "mon": "BS",
+    "monto": 842.05,
+    "ref": "322053"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ },
+ "v0021": {
+  "n": "V-000021",
+  "nro": 21,
+  "cod": "V-000021",
+  "t": 1792590180000,
+  "dia": "2026-10-21",
+  "registrada": 1792590180000,
+  "baseImponible": 16.35,
+  "tasa": 395.33,
+  "subtotal": 16.35,
+  "iva": 0.0,
+  "ivaTasa": 0,
+  "igtf": 0,
+  "igtfTasa": 0,
+  "total": 16.35,
+  "totalBs": 6463.65,
+  "cliente": "",
+  "clienteId": null,
+  "clienteDoc": "",
+  "clienteTel": "",
+  "por": "demo_admin",
+  "anulada": false,
+  "items": [
+   {
+    "id": "p2855",
+    "codigo": "TOG5NC342",
+    "desc": "TOG5NC 3/4X2",
+    "ubic": "ESTANTE 8 COLUMNA 1 DERECHA",
+    "cant": 2,
+    "precio": 1.1053,
+    "costo": 0.2763,
+    "total": 2.21
+   },
+   {
+    "id": "p0103",
+    "codigo": "WOODC",
+    "desc": "WOOD CHISEL",
+    "ubic": "ESTANTE A COLUMNA 2",
+    "cant": 20,
+    "precio": 0.2217,
+    "costo": 0.0554,
+    "total": 4.43
+   },
+   {
+    "id": "p1279",
+    "codigo": "TOMMMA1016",
+    "desc": "TORNILLO HEX METRICO MA 10-1.50X16",
+    "ubic": "ESTANTE 5A / ESTANTE NUEVO",
+    "cant": 6,
+    "precio": 0.3781,
+    "costo": 0.0945,
+    "total": 2.27
+   },
+   {
+    "id": "p2169",
+    "codigo": "ESPAMMB1260-125",
+    "desc": "ESPARRAGO MILIMETRICO 8,8 MB 12-1.25x60",
+    "ubic": "ESTANTE NUEVO",
+    "cant": 2,
+    "precio": 3.7224,
+    "costo": 0.9306,
+    "total": 7.44
+   }
+  ],
+  "pagos": [
+   {
+    "metodo": "pago_movil",
+    "cuenta": "banco_pm",
+    "cuentaNombre": "Banco Demo · Pago móvil",
+    "mon": "BS",
+    "monto": 6463.65,
+    "ref": "193471"
+   }
+  ],
+  "modo": "bs",
+  "credito": 0,
+  "vuelto": 0,
+  "vueltoMon": null
+ }
+}

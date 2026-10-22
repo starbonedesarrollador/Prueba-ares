@@ -1,0 +1,7 @@
+﻿id,nombre,moneda,saldo_inicial,fecha_saldo_inicial
+banco_pm,Banco Demo · Pago móvil,BS,55792.11,2026-09-21
+banco_emp,Banco Demo · Punto y transferencias,BS,547100.48,2026-09-21
+zelle_demo,Zelle (demo),USD,387.13,2026-09-21
+binance_demo,Binance (demo),USD,210.0,2026-09-21
+efectivo_usd,Efectivo $,USD,319.46,2026-09-21
+efectivo_bs,Efectivo Bs,BS,27702.39,2026-09-21

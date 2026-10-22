@@ -1,0 +1,5 @@
+﻿id,nombre,nombre_corto,descuento_pagando_bs,descuento_extra_pagando_divisas
+tornorte,"DISTRIBUIDORA TORNILLOS DEL NORTE, C.A. (DEMO)",Tornorte,0.4,0.2
+pernosandes,"IMPORTADORA PERNOS LOS ANDES, C.A. (DEMO)",Pernos Andes,0.0,0.25
+ferrecaribe,"FERRETERA INDUSTRIAL CARIBE, C.A. (DEMO)",FerreCaribe,0.3,0.15
+autotuercas,"AUTOTUERCAS DEL ORIENTE, C.A. (DEMO)",AutoTuercas,0.5,0.25

@@ -1,0 +1,82 @@
+{
+ "banco_pm": {
+  "nombre": "Banco Demo · Pago móvil",
+  "banco": "Banco Demo",
+  "tipo": "pago_movil",
+  "mon": "BS",
+  "datos": "",
+  "titular": "Tornillería Oriente (demo)",
+  "activa": true,
+  "creado": 1789990200000,
+  "por": "demo_admin",
+  "saldoIni": 55792.11,
+  "saldoAt": 1789990200000
+ },
+ "banco_emp": {
+  "nombre": "Banco Demo · Punto y transferencias",
+  "banco": "Banco Demo",
+  "tipo": "punto",
+  "mon": "BS",
+  "datos": "",
+  "titular": "Tornillería Oriente (demo)",
+  "activa": true,
+  "creado": 1789990200000,
+  "por": "demo_admin",
+  "saldoIni": 547100.48,
+  "saldoAt": 1789990200000
+ },
+ "zelle_demo": {
+  "nombre": "Zelle (demo)",
+  "banco": "Zelle",
+  "tipo": "zelle",
+  "mon": "USD",
+  "datos": "",
+  "titular": "",
+  "activa": true,
+  "creado": 1789990200000,
+  "por": "demo_admin",
+  "saldoIni": 387.13,
+  "saldoAt": 1789990200000
+ },
+ "binance_demo": {
+  "nombre": "Binance (demo)",
+  "banco": "Binance",
+  "tipo": "otro_usd",
+  "mon": "USD",
+  "datos": "",
+  "titular": "",
+  "activa": true,
+  "creado": 1789990200000,
+  "por": "demo_admin",
+  "saldoIni": 210.0,
+  "saldoAt": 1789990200000
+ },
+ "efectivo_usd": {
+  "nombre": "Efectivo $",
+  "banco": "Efectivo",
+  "tipo": "efectivo",
+  "mon": "USD",
+  "datos": "",
+  "titular": "",
+  "activa": true,
+  "fijo": true,
+  "creado": 1789990200000,
+  "por": "demo_admin",
+  "saldoIni": 319.46,
+  "saldoAt": 1789990200000
+ },
+ "efectivo_bs": {
+  "nombre": "Efectivo Bs",
+  "banco": "Efectivo",
+  "tipo": "efectivo",
+  "mon": "BS",
+  "datos": "",
+  "titular": "",
+  "activa": true,
+  "fijo": true,
+  "creado": 1789990200000,
+  "por": "demo_admin",
+  "saldoIni": 27702.39,
+  "saldoAt": 1789990200000
+ }
+}

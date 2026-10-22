@@ -1,0 +1,8 @@
+{
+ "demo": true,
+ "aviso": "DEMO — DATOS DE PRUEBA",
+ "fechaReferencia": "2026-10-21",
+ "semilla": 20261021,
+ "version": 1,
+ "nota": "Al cargar, la demo corre todas las fechas para que la fecha de referencia sea el día de hoy."
+}

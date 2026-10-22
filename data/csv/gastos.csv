@@ -1,0 +1,12 @@
+﻿numero,fecha,categoria,descripcion,cuenta,moneda,monto,equivalente_usd
+G-000001,2026-09-22,ALQUILER,Alquiler del local (demo),Banco Demo · Punto y transferencias,BS,174172.5,450.0
+G-000002,2026-09-25,SERVICIOS,Electricidad (demo),Banco Demo · Pago móvil,BS,14960.33,38.5
+G-000003,2026-09-27,TRANSPORTE,Flete de mercancía (demo),Efectivo $,USD,25.0,25.0
+G-000004,2026-10-01,NÓMINA,Pago quincenal vendedor (demo),Efectivo $,USD,160.0,160.0
+G-000005,2026-10-04,MANTENIMIENTO,Reparación de estantería (demo),Efectivo Bs,BS,16426.2,42.0
+G-000006,2026-10-07,SERVICIOS,Internet (demo),Banco Demo · Pago móvil,BS,11746.8,30.0
+G-000007,2026-10-09,PAPELERÍA,Talonarios y bolsas (demo),Efectivo Bs,BS,4893.75,12.5
+G-000008,2026-10-13,TRANSPORTE,Gasolina (demo),Efectivo $,USD,18.0,18.0
+G-000009,2026-10-16,NÓMINA,Pago quincenal vendedor (demo),Efectivo $,USD,160.0,160.0
+G-000010,2026-10-18,SERVICIOS,Agua (demo),Banco Demo · Pago móvil,BS,3740.06,9.5
+G-000011,2026-10-20,LIMPIEZA,Artículos de limpieza (demo),Efectivo Bs,BS,3082.33,7.8

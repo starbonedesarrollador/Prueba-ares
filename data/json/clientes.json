@@ -1,0 +1,368 @@
+{
+ "J990000101": {
+  "nombre": "TALLER MECÁNICO EL PISTÓN, C.A.",
+  "doc": "J-990000101-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000102": {
+  "nombre": "REPUESTOS LA BUJÍA, C.A.",
+  "doc": "J-990000102-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000103": {
+  "nombre": "FERRETERÍA PUNTA BRAVA, C.A.",
+  "doc": "J-990000103-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000104": {
+  "nombre": "INVERSIONES TUERCA FINA, C.A.",
+  "doc": "J-990000104-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo",
+  "especial": true,
+  "retPct": 0.75
+ },
+ "J990000105": {
+  "nombre": "SERVICIOS HIDRÁULICOS MORICHAL, C.A.",
+  "doc": "J-990000105-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000106": {
+  "nombre": "CONSTRUCCIONES CERRO ALTO, C.A.",
+  "doc": "J-990000106-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000107": {
+  "nombre": "AUTOPARTES BAHÍA AZUL, C.A.",
+  "doc": "J-990000107-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo",
+  "especial": true,
+  "retPct": 0.75
+ },
+ "J990000108": {
+  "nombre": "METALÚRGICA LOS SAMANES, C.A.",
+  "doc": "J-990000108-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000109": {
+  "nombre": "TALLER DIÉSEL PUERTO VIEJO",
+  "doc": "J-990000109-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000110": {
+  "nombre": "CARPINTERÍA METÁLICA EL YUNQUE",
+  "doc": "J-990000110-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000111": {
+  "nombre": "AGROPECUARIA LA CEIBA, C.A.",
+  "doc": "J-990000111-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000112": {
+  "nombre": "MANTENIMIENTO INDUSTRIAL DELTA, C.A.",
+  "doc": "J-990000112-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000113": {
+  "nombre": "ANA RIVAS",
+  "doc": "V-99.000.113",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000114": {
+  "nombre": "CARLOS MENDOZA",
+  "doc": "V-99.000.114",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000115": {
+  "nombre": "LUISA FERMÍN",
+  "doc": "V-99.000.115",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000116": {
+  "nombre": "JOSÉ SALAZAR",
+  "doc": "V-99.000.116",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000117": {
+  "nombre": "MARÍA CARVAJAL",
+  "doc": "V-99.000.117",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000118": {
+  "nombre": "PEDRO LUGO",
+  "doc": "V-99.000.118",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000119": {
+  "nombre": "ROSA MARCANO",
+  "doc": "V-99.000.119",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000120": {
+  "nombre": "JUAN BASTIDAS",
+  "doc": "V-99.000.120",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000121": {
+  "nombre": "ANDRÉS VELÁSQUEZ",
+  "doc": "V-99.000.121",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000122": {
+  "nombre": "GABRIELA RONDÓN",
+  "doc": "V-99.000.122",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000123": {
+  "nombre": "MIGUEL GUZMÁN",
+  "doc": "V-99.000.123",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000124": {
+  "nombre": "DANIELA ROJAS",
+  "doc": "V-99.000.124",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000125": {
+  "nombre": "RAFAEL PATIÑO",
+  "doc": "V-99.000.125",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000126": {
+  "nombre": "CARMEN SILVA",
+  "doc": "V-99.000.126",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000127": {
+  "nombre": "LUIS ACOSTA",
+  "doc": "V-99.000.127",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000128": {
+  "nombre": "ELENA BRITO",
+  "doc": "V-99.000.128",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000129": {
+  "nombre": "HÉCTOR FIGUERA",
+  "doc": "V-99.000.129",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000130": {
+  "nombre": "PAOLA MILLÁN",
+  "doc": "V-99.000.130",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000131": {
+  "nombre": "TALLER LAS GAVIOTAS",
+  "doc": "J-990000131-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000132": {
+  "nombre": "MOTO REPUESTOS EL RAYO",
+  "doc": "J-990000132-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo",
+  "especial": true,
+  "retPct": 0.75
+ },
+ "J990000133": {
+  "nombre": "HERRERÍA SAN RAFAEL",
+  "doc": "J-990000133-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000134": {
+  "nombre": "ELECTROMECÁNICA ORIENTE SUR, C.A.",
+  "doc": "J-990000134-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000135": {
+  "nombre": "REFRIGERACIÓN POLAR DEMO, C.A.",
+  "doc": "J-990000135-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "J990000136": {
+  "nombre": "TRANSPORTE COSTA FIRME, C.A.",
+  "doc": "J-990000136-0",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000137": {
+  "nombre": "YOLANDA CAMPOS",
+  "doc": "V-99.000.137",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000138": {
+  "nombre": "OSCAR NATERA",
+  "doc": "V-99.000.138",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000139": {
+  "nombre": "RAMÓN HERNÁNDEZ",
+  "doc": "V-99.000.139",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ },
+ "V99000140": {
+  "nombre": "BEATRIZ AULAR",
+  "doc": "V-99.000.140",
+  "tel": "",
+  "dir": "",
+  "notas": "Cliente ficticio de la demo",
+  "creado": 1775318400000,
+  "origen": "demo"
+ }
+}

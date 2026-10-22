@@ -1,0 +1,95 @@
+{
+ "2026-10-16": {
+  "dia": "2026-10-16",
+  "apertura": {
+   "usd": 40,
+   "bs": 2000,
+   "at": 1792152300000,
+   "por": "demo_admin"
+  },
+  "cierre": {
+   "at": 1792186800000,
+   "por": "demo_admin",
+   "esperado": {},
+   "labels": {},
+   "contado": {},
+   "diferencias": {},
+   "notas": "Cierre de prueba (demo)",
+   "ventas": 1,
+   "total": 42.52,
+   "totalBs": 16739.7
+  }
+ },
+ "2026-10-17": {
+  "dia": "2026-10-17",
+  "apertura": {
+   "usd": 40,
+   "bs": 2000,
+   "at": 1792238700000,
+   "por": "demo_admin"
+  },
+  "cierre": {
+   "at": 1792273200000,
+   "por": "demo_admin",
+   "esperado": {},
+   "labels": {},
+   "contado": {},
+   "diferencias": {},
+   "notas": "Cierre de prueba (demo)",
+   "ventas": 2,
+   "total": 18.43,
+   "totalBs": 7255.71
+  }
+ },
+ "2026-10-19": {
+  "dia": "2026-10-19",
+  "apertura": {
+   "usd": 40,
+   "bs": 2000,
+   "at": 1792411500000,
+   "por": "demo_admin"
+  },
+  "cierre": {
+   "at": 1792446000000,
+   "por": "demo_admin",
+   "esperado": {},
+   "labels": {},
+   "contado": {},
+   "diferencias": {},
+   "notas": "Cierre de prueba (demo)",
+   "ventas": 3,
+   "total": 10.03,
+   "totalBs": 3951.92
+  }
+ },
+ "2026-10-20": {
+  "dia": "2026-10-20",
+  "apertura": {
+   "usd": 40,
+   "bs": 2000,
+   "at": 1792497900000,
+   "por": "demo_admin"
+  },
+  "cierre": {
+   "at": 1792532400000,
+   "por": "demo_admin",
+   "esperado": {},
+   "labels": {},
+   "contado": {},
+   "diferencias": {},
+   "notas": "Cierre de prueba (demo)",
+   "ventas": 4,
+   "total": 41.89,
+   "totalBs": 16553.67
+  }
+ },
+ "2026-10-21": {
+  "dia": "2026-10-21",
+  "apertura": {
+   "usd": 40,
+   "bs": 2000,
+   "at": 1792584300000,
+   "por": "demo_admin"
+  }
+ }
+}

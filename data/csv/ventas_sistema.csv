@@ -1,0 +1,22 @@
+﻿numero,fecha,cliente,modo,subtotal_usd,iva_usd,total_usd,total_bs,tasa,credito_usd,anulada,forma_de_pago
+V-000001,2026-10-12,"MANTENIMIENTO INDUSTRIAL DELTA, C.A.",bs,18.25,0.0,18.25,7156.74,392.15,18.25,no,credito
+V-000002,2026-10-13,,bs,71.04,0.0,71.04,27886.75,392.55,0,no,Banco Demo · Pago móvil
+V-000003,2026-10-13,,usd,18.58,0.0,18.58,7293.58,392.55,0,no,Zelle (demo)
+V-000004,2026-10-13,JOSÉ SALAZAR,bs,9.22,0.0,9.22,3619.31,392.55,0,sí,Banco Demo · Pago móvil
+V-000005,2026-10-14,,bs,11.66,0.0,11.66,4584.48,393.18,0,no,Banco Demo · Pago móvil
+V-000006,2026-10-14,,usd,13.35,0.0,13.35,5248.95,393.18,0,no,efectivo_usd
+V-000007,2026-10-14,,usd,2.18,0.0,2.18,857.13,393.18,0,no,Zelle (demo)
+V-000008,2026-10-15,CARPINTERÍA METÁLICA EL YUNQUE,usd,12.11,0.0,12.11,4760.32,393.09,0,no,Zelle (demo)
+V-000009,2026-10-15,"TRANSPORTE COSTA FIRME, C.A.",bs,2.29,0.0,2.29,900.18,393.09,2.29,no,credito
+V-000010,2026-10-16,,bs,42.52,0.0,42.52,16739.7,393.69,0,no,Banco Demo · Pago móvil
+V-000011,2026-10-17,,bs,12.61,0.0,12.61,4964.43,393.69,0,no,Banco Demo · Punto y transferencias
+V-000012,2026-10-17,CARPINTERÍA METÁLICA EL YUNQUE,usd,5.82,0.0,5.82,2291.28,393.69,0,no,efectivo_usd
+V-000013,2026-10-19,,bs,4.79,0.0,4.79,1887.31,394.01,0,no,Banco Demo · Pago móvil
+V-000014,2026-10-19,,usd,3.8,0.0,3.8,1497.24,394.01,0,no,efectivo_usd
+V-000015,2026-10-19,LUISA FERMÍN,bs,1.44,0.0,1.44,567.37,394.01,0,no,Banco Demo · Pago móvil
+V-000016,2026-10-20,RAFAEL PATIÑO,bs,5.64,0.9,6.54,2584.41,395.17,0,no,Banco Demo · Punto y transferencias
+V-000017,2026-10-20,"ELECTROMECÁNICA ORIENTE SUR, C.A.",bs,10.75,0.0,10.75,4248.08,395.17,0,no,Banco Demo · Pago móvil
+V-000018,2026-10-20,LUIS ACOSTA,usd,9.67,0.0,9.67,3821.29,395.17,0,no,efectivo_usd
+V-000019,2026-10-20,,bs,14.93,0.0,14.93,5899.89,395.17,0,no,efectivo_bs
+V-000020,2026-10-21,ANA RIVAS,bs,1.84,0.29,2.13,842.05,395.33,0,no,Banco Demo · Pago móvil
+V-000021,2026-10-21,,bs,16.35,0.0,16.35,6463.65,395.33,0,no,Banco Demo · Pago móvil

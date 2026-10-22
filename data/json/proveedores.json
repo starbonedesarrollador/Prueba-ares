@@ -1,0 +1,30 @@
+{
+ "tornorte": {
+  "nombre": "DISTRIBUIDORA TORNILLOS DEL NORTE, C.A. (DEMO)",
+  "corto": "Tornorte",
+  "descBs": 0.4,
+  "descExtra": 0.2,
+  "creado": 1766678400000
+ },
+ "pernosandes": {
+  "nombre": "IMPORTADORA PERNOS LOS ANDES, C.A. (DEMO)",
+  "corto": "Pernos Andes",
+  "descBs": 0.0,
+  "descExtra": 0.25,
+  "creado": 1766678400000
+ },
+ "ferrecaribe": {
+  "nombre": "FERRETERA INDUSTRIAL CARIBE, C.A. (DEMO)",
+  "corto": "FerreCaribe",
+  "descBs": 0.3,
+  "descExtra": 0.15,
+  "creado": 1766678400000
+ },
+ "autotuercas": {
+  "nombre": "AUTOTUERCAS DEL ORIENTE, C.A. (DEMO)",
+  "corto": "AutoTuercas",
+  "descBs": 0.5,
+  "descExtra": 0.25,
+  "creado": 1766678400000
+ }
+}

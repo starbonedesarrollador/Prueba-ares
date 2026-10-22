@@ -1,0 +1,233 @@
+{
+ "t20260907": {
+  "tasa": 382.52,
+  "anterior": 382.19,
+  "at": 1788782700000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260908": {
+  "tasa": 383.03,
+  "anterior": 382.52,
+  "at": 1788869100000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260909": {
+  "tasa": 383.4,
+  "anterior": 383.03,
+  "at": 1788955500000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260910": {
+  "tasa": 383.59,
+  "anterior": 383.4,
+  "at": 1789041900000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260911": {
+  "tasa": 383.89,
+  "anterior": 383.59,
+  "at": 1789128300000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260914": {
+  "tasa": 384.11,
+  "anterior": 383.89,
+  "at": 1789387500000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260915": {
+  "tasa": 384.54,
+  "anterior": 384.11,
+  "at": 1789473900000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260916": {
+  "tasa": 384.93,
+  "anterior": 384.54,
+  "at": 1789560300000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260917": {
+  "tasa": 385.14,
+  "anterior": 384.93,
+  "at": 1789646700000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260918": {
+  "tasa": 385.61,
+  "anterior": 385.14,
+  "at": 1789733100000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260921": {
+  "tasa": 386.31,
+  "anterior": 385.61,
+  "at": 1789992300000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260922": {
+  "tasa": 387.05,
+  "anterior": 386.31,
+  "at": 1790078700000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260923": {
+  "tasa": 388.07,
+  "anterior": 387.05,
+  "at": 1790165100000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260924": {
+  "tasa": 388.36,
+  "anterior": 388.07,
+  "at": 1790251500000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260925": {
+  "tasa": 388.58,
+  "anterior": 388.36,
+  "at": 1790337900000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260928": {
+  "tasa": 388.99,
+  "anterior": 388.58,
+  "at": 1790597100000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260929": {
+  "tasa": 389.16,
+  "anterior": 388.99,
+  "at": 1790683500000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20260930": {
+  "tasa": 390.25,
+  "anterior": 389.16,
+  "at": 1790769900000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261001": {
+  "tasa": 390.85,
+  "anterior": 390.25,
+  "at": 1790856300000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261002": {
+  "tasa": 391.1,
+  "anterior": 390.85,
+  "at": 1790942700000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261005": {
+  "tasa": 391.25,
+  "anterior": 391.1,
+  "at": 1791201900000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261006": {
+  "tasa": 391.48,
+  "anterior": 391.25,
+  "at": 1791288300000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261007": {
+  "tasa": 391.56,
+  "anterior": 391.48,
+  "at": 1791374700000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261008": {
+  "tasa": 390.92,
+  "anterior": 391.56,
+  "at": 1791461100000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261009": {
+  "tasa": 391.5,
+  "anterior": 390.92,
+  "at": 1791547500000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261012": {
+  "tasa": 392.15,
+  "anterior": 391.5,
+  "at": 1791806700000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261013": {
+  "tasa": 392.55,
+  "anterior": 392.15,
+  "at": 1791893100000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261014": {
+  "tasa": 393.18,
+  "anterior": 392.55,
+  "at": 1791979500000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261015": {
+  "tasa": 393.09,
+  "anterior": 393.18,
+  "at": 1792065900000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261016": {
+  "tasa": 393.69,
+  "anterior": 393.09,
+  "at": 1792152300000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261019": {
+  "tasa": 394.01,
+  "anterior": 393.69,
+  "at": 1792411500000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261020": {
+  "tasa": 395.17,
+  "anterior": 394.01,
+  "at": 1792497900000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ },
+ "t20261021": {
+  "tasa": 395.33,
+  "anterior": 395.17,
+  "at": 1792584300000,
+  "por": "auto",
+  "nota": "Tasa ficticia de la demo"
+ }
+}

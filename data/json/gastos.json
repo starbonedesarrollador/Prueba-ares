@@ -1,0 +1,189 @@
+{
+ "g001": {
+  "t": 1790107200000,
+  "dia": "2026-09-22",
+  "categoria": "ALQUILER",
+  "desc": "Alquiler del local (demo)",
+  "pago": {
+   "key": "c_banco_emp",
+   "label": "Banco Demo · Punto y transferencias",
+   "mon": "BS",
+   "monto": 174172.5,
+   "usd": 450.0,
+   "tasa": 387.05
+  },
+  "por": "demo_admin",
+  "nro": 1,
+  "n": "G-000001"
+ },
+ "g002": {
+  "t": 1790366400000,
+  "dia": "2026-09-25",
+  "categoria": "SERVICIOS",
+  "desc": "Electricidad (demo)",
+  "pago": {
+   "key": "c_banco_pm",
+   "label": "Banco Demo · Pago móvil",
+   "mon": "BS",
+   "monto": 14960.33,
+   "usd": 38.5,
+   "tasa": 388.58
+  },
+  "por": "demo_admin",
+  "nro": 2,
+  "n": "G-000002"
+ },
+ "g003": {
+  "t": 1790539200000,
+  "dia": "2026-09-27",
+  "categoria": "TRANSPORTE",
+  "desc": "Flete de mercancía (demo)",
+  "pago": {
+   "key": "efectivo_usd",
+   "label": "Efectivo $",
+   "mon": "USD",
+   "monto": 25.0,
+   "usd": 25.0,
+   "tasa": 388.58
+  },
+  "por": "demo_admin",
+  "nro": 3,
+  "n": "G-000003"
+ },
+ "g004": {
+  "t": 1790884800000,
+  "dia": "2026-10-01",
+  "categoria": "NÓMINA",
+  "desc": "Pago quincenal vendedor (demo)",
+  "pago": {
+   "key": "efectivo_usd",
+   "label": "Efectivo $",
+   "mon": "USD",
+   "monto": 160.0,
+   "usd": 160.0,
+   "tasa": 390.85
+  },
+  "por": "demo_admin",
+  "nro": 4,
+  "n": "G-000004"
+ },
+ "g005": {
+  "t": 1791144000000,
+  "dia": "2026-10-04",
+  "categoria": "MANTENIMIENTO",
+  "desc": "Reparación de estantería (demo)",
+  "pago": {
+   "key": "efectivo_bs",
+   "label": "Efectivo Bs",
+   "mon": "BS",
+   "monto": 16426.2,
+   "usd": 42.0,
+   "tasa": 391.1
+  },
+  "por": "demo_admin",
+  "nro": 5,
+  "n": "G-000005"
+ },
+ "g006": {
+  "t": 1791403200000,
+  "dia": "2026-10-07",
+  "categoria": "SERVICIOS",
+  "desc": "Internet (demo)",
+  "pago": {
+   "key": "c_banco_pm",
+   "label": "Banco Demo · Pago móvil",
+   "mon": "BS",
+   "monto": 11746.8,
+   "usd": 30.0,
+   "tasa": 391.56
+  },
+  "por": "demo_admin",
+  "nro": 6,
+  "n": "G-000006"
+ },
+ "g007": {
+  "t": 1791576000000,
+  "dia": "2026-10-09",
+  "categoria": "PAPELERÍA",
+  "desc": "Talonarios y bolsas (demo)",
+  "pago": {
+   "key": "efectivo_bs",
+   "label": "Efectivo Bs",
+   "mon": "BS",
+   "monto": 4893.75,
+   "usd": 12.5,
+   "tasa": 391.5
+  },
+  "por": "demo_admin",
+  "nro": 7,
+  "n": "G-000007"
+ },
+ "g008": {
+  "t": 1791921600000,
+  "dia": "2026-10-13",
+  "categoria": "TRANSPORTE",
+  "desc": "Gasolina (demo)",
+  "pago": {
+   "key": "efectivo_usd",
+   "label": "Efectivo $",
+   "mon": "USD",
+   "monto": 18.0,
+   "usd": 18.0,
+   "tasa": 392.55
+  },
+  "por": "demo_admin",
+  "nro": 8,
+  "n": "G-000008"
+ },
+ "g009": {
+  "t": 1792180800000,
+  "dia": "2026-10-16",
+  "categoria": "NÓMINA",
+  "desc": "Pago quincenal vendedor (demo)",
+  "pago": {
+   "key": "efectivo_usd",
+   "label": "Efectivo $",
+   "mon": "USD",
+   "monto": 160.0,
+   "usd": 160.0,
+   "tasa": 393.69
+  },
+  "por": "demo_admin",
+  "nro": 9,
+  "n": "G-000009"
+ },
+ "g010": {
+  "t": 1792353600000,
+  "dia": "2026-10-18",
+  "categoria": "SERVICIOS",
+  "desc": "Agua (demo)",
+  "pago": {
+   "key": "c_banco_pm",
+   "label": "Banco Demo · Pago móvil",
+   "mon": "BS",
+   "monto": 3740.06,
+   "usd": 9.5,
+   "tasa": 393.69
+  },
+  "por": "demo_admin",
+  "nro": 10,
+  "n": "G-000010"
+ },
+ "g011": {
+  "t": 1792526400000,
+  "dia": "2026-10-20",
+  "categoria": "LIMPIEZA",
+  "desc": "Artículos de limpieza (demo)",
+  "pago": {
+   "key": "efectivo_bs",
+   "label": "Efectivo Bs",
+   "mon": "BS",
+   "monto": 3082.33,
+   "usd": 7.8,
+   "tasa": 395.17
+  },
+  "por": "demo_admin",
+  "nro": 11,
+  "n": "G-000011"
+ }
+}

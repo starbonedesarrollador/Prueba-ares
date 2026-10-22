@@ -1,0 +1,23 @@
+{
+ "venta": {
+  "ultimo": 21
+ },
+ "compra": {
+  "ultimo": 6
+ },
+ "gasto": {
+  "ultimo": 11
+ },
+ "abono": {
+  "ultimo": 3
+ },
+ "movcta": {
+  "ultimo": 3
+ },
+ "presupuesto": {
+  "ultimo": 0
+ },
+ "traspaso": {
+  "ultimo": 0
+ }
+}

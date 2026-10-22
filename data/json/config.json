@@ -1,0 +1,21 @@
+{
+ "general": {
+  "d1": 0.53,
+  "d2": 0.25,
+  "margen": 3,
+  "minimo": 5,
+  "tasa": 395.33,
+  "tasaAt": 1792584300000,
+  "tasaPor": "auto",
+  "empresa": {
+   "razon": "TORNILLERÍA ORIENTE · DEMO",
+   "rif": "J-00000000-0",
+   "tel": "",
+   "dir": "Dirección de prueba (demo)",
+   "correo": "",
+   "validez": 3,
+   "pie": "DEMO — DATOS DE PRUEBA. Documento sin validez.",
+   "retPct": 0.75
+  }
+ }
+}

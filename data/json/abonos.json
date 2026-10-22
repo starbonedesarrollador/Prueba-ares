@@ -1,0 +1,59 @@
+{
+ "ab001": {
+  "tipo": "cxc",
+  "ref": "v0001",
+  "t": 1791918000000,
+  "dia": "2026-10-13",
+  "pago": {
+   "key": "c_banco_pm",
+   "label": "Banco Demo · Pago móvil",
+   "mon": "BS",
+   "monto": 7164.04,
+   "usd": 18.25,
+   "tasa": 392.55,
+   "ref": "383865"
+  },
+  "quien": "MANTENIMIENTO INDUSTRIAL DELTA, C.A.",
+  "por": "demo_admin",
+  "nro": 1,
+  "n": "R-000001"
+ },
+ "ab002": {
+  "tipo": "cxc",
+  "ref": "v0009",
+  "t": 1792177200000,
+  "dia": "2026-10-16",
+  "pago": {
+   "key": "c_banco_pm",
+   "label": "Banco Demo · Pago móvil",
+   "mon": "BS",
+   "monto": 271.65,
+   "usd": 0.69,
+   "tasa": 393.69,
+   "ref": "848041"
+  },
+  "quien": "TRANSPORTE COSTA FIRME, C.A.",
+  "por": "demo_admin",
+  "nro": 2,
+  "n": "R-000002"
+ },
+ "ab003": {
+  "tipo": "cxp",
+  "ref": "cp002",
+  "t": 1791817200000,
+  "dia": "2026-10-12",
+  "pago": {
+   "key": "efectivo_usd",
+   "label": "Efectivo $",
+   "mon": "USD",
+   "monto": 32.84,
+   "usd": 32.84,
+   "tasa": 392.15,
+   "ref": ""
+  },
+  "quien": "IMPORTADORA PERNOS LOS ANDES, C.A. (DEMO)",
+  "por": "demo_admin",
+  "nro": 3,
+  "n": "R-000003"
+ }
+}

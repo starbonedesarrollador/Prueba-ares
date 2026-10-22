@@ -1,0 +1,346 @@
+{
+ "hoja": {
+  "items": [
+   {
+    "id": "c1",
+    "tipo": "cxc",
+    "t": 1784476800000,
+    "quien": "REFRIGERACIÓN POLAR DEMO, C.A.",
+    "ref": "Hoja de cobros (demo) fila 40",
+    "total": 133.2,
+    "detalle": [
+     {
+      "c": "TOALCC516034",
+      "d": "TOALCC 5/16X3/4",
+      "q": 60,
+      "u": 0.263,
+      "t": 15.78
+     },
+     {
+      "c": "MACHOSNCP1316",
+      "d": "MACHOS PULG PEQUEÑOS NC 13/16",
+      "q": 5,
+      "u": 13.6112,
+      "t": 68.06
+     },
+     {
+      "c": "ESPAMMA1050",
+      "d": "ESPÁRRAGO R.GRUESA NEGRO 8.8 M10-1.50x50mm",
+      "q": 12,
+      "u": 2.0304,
+      "t": 24.36
+     },
+     {
+      "c": "TOALMMA1080",
+      "d": "TOR ALLEN CBZA CILINDRICA MM 10X80",
+      "q": 20,
+      "u": 1.25,
+      "t": 25.0
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "tipo": "cxc",
+    "t": 1783353600000,
+    "quien": "FERRETERÍA PUNTA BRAVA, C.A.",
+    "ref": "Hoja de cobros (demo) fila 47",
+    "total": 21.55,
+    "detalle": [
+     {
+      "c": "DESTORJ",
+      "d": "JUEGO DESTORNILLADORES",
+      "q": 3,
+      "u": 1.2346,
+      "t": 3.7
+     },
+     {
+      "c": "TOALMMA1240",
+      "d": "TOR ALLEN CBZA CILINDRICA MM 12X40",
+      "q": 10,
+      "u": 1.0351,
+      "t": 10.35
+     },
+     {
+      "c": "TOMECRMM650",
+      "d": "TOMECRMM 6X50",
+      "q": 30,
+      "u": 0.25,
+      "t": 7.5
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "tipo": "cxc",
+    "t": 1782489600000,
+    "quien": "AGROPECUARIA LA CEIBA, C.A.",
+    "ref": "Hoja de cobros (demo) fila 54",
+    "total": 9.34,
+    "detalle": [
+     {
+      "c": "LLAVEAUML",
+      "d": "JUEGO DE LLAVES ALLEN UNBRAKO LARGAS",
+      "q": 6,
+      "u": 0.98,
+      "t": 5.88
+     },
+     {
+      "c": "DADOSTARRMM6",
+      "d": "DADOS PARA TARRAJA MM 6",
+      "q": 50,
+      "u": 0.0692,
+      "t": 3.46
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "tipo": "cxc",
+    "t": 1786982400000,
+    "quien": "TALLER DIÉSEL PUERTO VIEJO",
+    "ref": "Hoja de cobros (demo) fila 61",
+    "total": 22.11,
+    "detalle": [
+     {
+      "c": "TUMMMB14-150",
+      "d": "TUERCA MILIMETRICA MB M14x1.50",
+      "q": 6,
+      "u": 0.5208,
+      "t": 3.12
+     },
+     {
+      "c": "LIMACC10ML",
+      "d": "LIMAS CAÑAS 10' MEDIA LUNA",
+      "q": 18,
+      "u": 1.0551,
+      "t": 18.99
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "tipo": "cxc",
+    "t": 1791820800000,
+    "quien": "DANIELA ROJAS",
+    "ref": "Hoja de cobros (demo) fila 68",
+    "total": 156.27,
+    "detalle": [
+     {
+      "c": "TOAUCPAN12112",
+      "d": "TORN AUTOR C/PAN PHS 12X1.1/2",
+      "q": 60,
+      "u": 0.1216,
+      "t": 7.3
+     },
+     {
+      "c": "LLALLEN732",
+      "d": "LLAVES ALLEN PULG 7/32",
+      "q": 60,
+      "u": 2.3876,
+      "t": 143.26
+     },
+     {
+      "c": "TOMMMAFL830-109",
+      "d": "TOR HEX FLANGE 10.9 DIN 6921 ASERRADO M8-1.25x30",
+      "q": 6,
+      "u": 0.9513,
+      "t": 5.71
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "tipo": "cxc",
+    "t": 1784563200000,
+    "quien": "RAFAEL PATIÑO",
+    "ref": "Hoja de cobros (demo) fila 75",
+    "total": 11.68,
+    "detalle": [
+     {
+      "c": "PRALNC516012",
+      "d": "PRISIONERO ALLEN UNC NEGRO 5/16-18X1/2",
+      "q": 50,
+      "u": 0.2337,
+      "t": 11.68
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "tipo": "cxc",
+    "t": 1782576000000,
+    "quien": "TALLER MECÁNICO EL PISTÓN, C.A.",
+    "ref": "Hoja de cobros (demo) fila 82",
+    "total": 40.03,
+    "detalle": [
+     {
+      "c": "TOAUCH10038",
+      "d": "TOR AUTORR CBZA HEX 10X3/8",
+      "q": 6,
+      "u": 0.0985,
+      "t": 0.59
+     },
+     {
+      "c": "PRALNFCP38212",
+      "d": "PRALNF 3/8X2 1/2",
+      "q": 40,
+      "u": 0.9861,
+      "t": 39.44
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "tipo": "cxc",
+    "t": 1780588800000,
+    "quien": "CARPINTERÍA METÁLICA EL YUNQUE",
+    "ref": "Hoja de cobros (demo) fila 89",
+    "total": 152.58,
+    "detalle": [
+     {
+      "c": "TOG5NC716212",
+      "d": "TORNILLO HEX GRADO 5 UNC 7/16X2 1/2",
+      "q": 18,
+      "u": 1.6743,
+      "t": 30.14
+     },
+     {
+      "c": "TOMMMA830RC",
+      "d": "TOR HEX 8.8 R.CORRIDA NEGRO M8-1.25x30",
+      "q": 18,
+      "u": 0.3672,
+      "t": 6.61
+     },
+     {
+      "c": "TOG8NF716212",
+      "d": "TOR HEX G8 UNF NEGRO 7/16-20x2-1/2",
+      "q": 60,
+      "u": 1.8129,
+      "t": 108.77
+     },
+     {
+      "c": "PRALNC832018",
+      "d": "PRALNC 8/32 X 1/8",
+      "q": 36,
+      "u": 0.1961,
+      "t": 7.06
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "tipo": "cxc",
+    "t": 1787846400000,
+    "quien": "REPUESTOS LA BUJÍA, C.A.",
+    "ref": "Hoja de cobros (demo) fila 96",
+    "total": 7.33,
+    "detalle": [
+     {
+      "c": "TOMECRMM630",
+      "d": "TOMECRMM 6X30",
+      "q": 20,
+      "u": 0.1654,
+      "t": 3.31
+     },
+     {
+      "c": "TOMEGS532058",
+      "d": "TOMEGS 5/32X5/8",
+      "q": 12,
+      "u": 0.1072,
+      "t": 1.29
+     },
+     {
+      "c": "TOMECP316112",
+      "d": "TORNILLO METAL C/PLANA 3/16X1 1/2",
+      "q": 20,
+      "u": 0.1367,
+      "t": 2.73
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "tipo": "cxc",
+    "t": 1782230400000,
+    "quien": "MOTO REPUESTOS EL RAYO",
+    "ref": "Hoja de cobros (demo) fila 103",
+    "total": 115.96,
+    "detalle": [
+     {
+      "c": "TOG2NC058314",
+      "d": "TOG2NC 5/8X3 1/4",
+      "q": 6,
+      "u": 9.6068,
+      "t": 57.64
+     },
+     {
+      "c": "TOMMMB1460RC",
+      "d": "TOR HEX 8.8 DIN 961 R.FINA CORRIDA NEGRO M14-1.50x60",
+      "q": 12,
+      "u": 2.6132,
+      "t": 31.36
+     },
+     {
+      "c": "TOG2NC058512",
+      "d": "TOR HEXAGONAL GRADO 2 NC 5/8-11x5-1/2",
+      "q": 3,
+      "u": 8.9864,
+      "t": 26.96
+     }
+    ]
+   },
+   {
+    "id": "p1",
+    "tipo": "cxp",
+    "t": 1789747200000,
+    "quien": "AUTOTUERCAS DEL ORIENTE, C.A. (DEMO)",
+    "ref": "Factura DEMO-0900",
+    "total": 612.4,
+    "detalle": [
+     {
+      "c": "",
+      "d": "Factura de prueba",
+      "q": 1,
+      "u": 612.4,
+      "t": 612.4
+     }
+    ]
+   },
+   {
+    "id": "p2",
+    "tipo": "cxp",
+    "t": 1791043200000,
+    "quien": "IMPORTADORA PERNOS LOS ANDES, C.A. (DEMO)",
+    "ref": "Factura DEMO-0937",
+    "total": 288.15,
+    "detalle": [
+     {
+      "c": "",
+      "d": "Factura de prueba",
+      "q": 1,
+      "u": 288.15,
+      "t": 288.15
+     }
+    ]
+   },
+   {
+    "id": "p3",
+    "tipo": "cxp",
+    "t": 1791820800000,
+    "quien": "DISTRIBUIDORA TORNILLOS DEL NORTE, C.A. (DEMO)",
+    "ref": "Factura DEMO-0974",
+    "total": 940.0,
+    "detalle": [
+     {
+      "c": "",
+      "d": "Factura de prueba",
+      "q": 1,
+      "u": 940.0,
+      "t": 940.0
+     }
+    ]
+   }
+  ]
+ }
+}

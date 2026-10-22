@@ -1,0 +1,4 @@
+﻿recibo,fecha,tipo,quien,referencia,cuenta,moneda,monto,equivalente_usd
+R-000001,2026-10-13,cobro a cliente,"MANTENIMIENTO INDUSTRIAL DELTA, C.A.",V-000001,Banco Demo · Pago móvil,BS,7164.04,18.25
+R-000002,2026-10-16,cobro a cliente,"TRANSPORTE COSTA FIRME, C.A.",V-000009,Banco Demo · Pago móvil,BS,271.65,0.69
+R-000003,2026-10-12,pago a proveedor,"IMPORTADORA PERNOS LOS ANDES, C.A. (DEMO)",C-000002,Efectivo $,USD,32.84,32.84
